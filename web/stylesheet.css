@@ -1,0 +1,16 @@
+div {
+    text-align: center;
+}
+
+.jumbotron {
+    margin: auto;
+    width: 50%;
+}
+
+.form-control {
+    margin: 15px;
+}
+
+#failed {
+    color: red;
+}
